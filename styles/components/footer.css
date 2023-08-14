@@ -1,0 +1,18 @@
+.footer__title{
+    font-size: var(--size-sm);
+    font-weight: 400;
+    color: var(--clr-sate600);
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    user-select: none;
+    text-align: center;
+}
+.footer__title:hover{
+    font-size: var(--size-sm);
+    font-weight: 400;
+    color: var(--clr-sate600);
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    user-select: none;
+    text-align: center;
+}
